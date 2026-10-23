@@ -26,6 +26,16 @@ A four-week working engagement for development teams.
 
 One reference scenario evolves throughout the engagement. Sandbox readiness is a prerequisite, not the primary delivery objective.
 
+Session materials belong in the [sessions](sessions) folder, organized by week with a dedicated folder for each of the eight sessions. Add slides, labs, code samples, and reference material to the corresponding session folder.
+
+## Environment approach: start in a sandbox, plan for private networking
+
+The workshop can begin in an approved Foundry sandbox environment so participants can start learning and building without waiting for a full enterprise deployment.
+
+As the workshop progresses, we encourage teams to deploy Foundry in a private network configuration, working with their platform, networking, and security teams. Use the [Foundry private-network agent tools deployment sample](https://github.com/microsoft-foundry/foundry-samples/tree/main/infrastructure/infrastructure-setup-bicep/19-private-network-agent-tools) as a reference for planning and deployment.
+
+Private-network deployment can proceed alongside the workshop; it is not a prerequisite for the first session. Validate connectivity, permissions, and feature compatibility before moving labs into the private environment. Enterprise deployment and approvals remain a separately owned workstream.
+
 ## Week 1: Foundry Foundations & Models
 
 **Weekly milestone:** Understand the platform and AI lifecycle, then deploy and invoke an approved model.
@@ -224,6 +234,7 @@ Use prepared examples to keep publishing, identity, and optimization focused. Co
 ## Prerequisites & delivery assumptions
 
 - Before hands-on work: provide an approved Foundry sandbox/project, suitable model capacity, required RBAC, connectivity, local tooling, and repository access.
+- An approved sandbox is sufficient to start. A private-network Foundry deployment is encouraged in parallel, with platform, networking, and security ownership.
 - Prepare deployment/OIDC and publishing permissions, approved content, and safe sample data. Use no sensitive production data. Confirm Agent 365 licensing, tenant enablement, and administrator support before Week 4.
 - Scope is one reference scenario, a small approved model set, prompt and hosted examples, one service integration, and one knowledge source.
 - Implementation and remediation continue between meetings. Session 1 starts with a 20-minute Foundry overview, followed by 40 minutes of foundations and AI lifecycle. Later sessions typically allocate 15 minutes to concepts, 35 to a guided lab/demo, and 10 to review and next steps.
