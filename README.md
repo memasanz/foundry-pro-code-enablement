@@ -4,6 +4,14 @@
 
 A four-week working engagement for development teams.
 
+### Your journey starts here
+
+⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜
+
+⬜ Upcoming · 🕒 In progress · ✅ Complete · 🏁 Finish
+
+0 / 8 sessions complete · Ready to begin!
+
 ## Engagement overview
 
 | Item | Plan |
@@ -40,6 +48,10 @@ Private-network deployment can proceed alongside the workshop; it is not a prere
 
 ### [Tuesday - Session 1: Foundry Overview, Foundations & AI Lifecycle](./sessions/session-1-foundry-overview-foundations-ai-lifecycle/reference-links.md)
 
+🕒 ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜
+
+0 / 8 sessions complete · Session 1 in progress
+
 **Working agenda**
 
 - Foundry overview covering the platform, key capabilities, and how models, agents, tools, and knowledge fit together.
@@ -56,6 +68,10 @@ Private-network deployment can proceed alongside the workshop; it is not a prere
 - Agreed reference scenario and starter repository.
 
 ### [Thursday - Session 2: Hello World to Models](./sessions/session-2-hello-world-to-models/reference-links.md)
+
+✅ 🕒 ⬜ ⬜ ⬜ ⬜ ⬜ ⬜
+
+1 / 8 sessions complete · Session 2 in progress
 
 **Working agenda**
 
@@ -87,6 +103,10 @@ CI/CD is introduced here as a lifecycle practice. Hosted-agent deployment automa
 
 ### [Tuesday - Session 3: Agent Service Hello World & Prompt Agents](./sessions/session-3-agent-service-prompt-agents/reference-links.md)
 
+✅ ✅ 🕒 ⬜ ⬜ ⬜ ⬜ ⬜
+
+2 / 8 sessions complete · Session 3 in progress
+
 **Working agenda**
 
 - Introduce Agent Service and compare prompt agents with hosted agents.
@@ -102,6 +122,10 @@ CI/CD is introduced here as a lifecycle practice. Hosted-agent deployment automa
 - Versioned instructions and agent configuration.
 
 ### [Thursday - Session 4: Hosted Agents & Agent Framework](./sessions/session-4-hosted-agents-agent-framework/reference-links.md)
+
+✅ ✅ ✅ 🕒 ⬜ ⬜ ⬜ ⬜
+
+3 / 8 sessions complete · Session 4 in progress
 
 **Working agenda**
 
@@ -131,6 +155,10 @@ Use scaffolded examples to fit the session length. Custom MCP-server development
 
 ### [Tuesday - Session 5: Foundry Tools](./sessions/session-5-foundry-tools/reference-links.md)
 
+✅ ✅ ✅ ✅ 🕒 ⬜ ⬜ ⬜
+
+4 / 8 sessions complete · Session 5 in progress
+
 **Working agenda**
 
 - Survey Foundry Tools and select a capability relevant to the reference scenario.
@@ -144,6 +172,10 @@ Use scaffolded examples to fit the session length. Custom MCP-server development
 - A repeatable invocation and error-handling pattern.
 
 ### [Thursday - Session 6: Foundry IQ & Memory](./sessions/session-6-foundry-iq-memory/reference-links.md)
+
+✅ ✅ ✅ ✅ ✅ 🕒 ⬜ ⬜
+
+5 / 8 sessions complete · Session 6 in progress
 
 **Working agenda**
 
@@ -176,6 +208,10 @@ Confirm feature, region, and network support before the labs. Use an approved de
 
 ### [Tuesday - Session 7: Observability & Evaluations](./sessions/session-7-observability-evaluations/reference-links.md)
 
+✅ ✅ ✅ ✅ ✅ ✅ 🕒 ⬜
+
+6 / 8 sessions complete · Session 7 in progress
+
 **Working agenda**
 
 - Inspect end-to-end traces, model requests, tool calls, and failures.
@@ -191,6 +227,10 @@ Confirm feature, region, and network support before the labs. Use an approved de
 - Prioritized improvement backlog.
 
 ### [Thursday - Session 8: Optimization, Publishing & Agent 365](./sessions/session-8-optimization-publishing-agent-365/reference-links.md)
+
+✅ ✅ ✅ ✅ ✅ ✅ ✅ 🕒
+
+7 / 8 sessions complete · Session 8 in progress · Finish line ahead! 🏁
 
 **Working agenda**
 
@@ -218,6 +258,10 @@ Finalize the repository and runbook. Record the published agent, identity, permi
 Use prepared examples to keep publishing, identity, and optimization focused. Confirm Agent 365 licensing, enablement, and approvals; use an approved demo if unavailable.
 
 ## Completion & handoff
+
+✅ ✅ ✅ ✅ ✅ ✅ ✅ ✅ 🏁
+
+8 / 8 sessions complete · Journey complete!
 
 | Area | Evidence of completion |
 | --- | --- |
