@@ -26,16 +26,7 @@ A four-week working engagement for development teams.
 
 One reference scenario evolves throughout the engagement. Sandbox readiness is a prerequisite, not the primary delivery objective.
 
-Each session has a dedicated folder in `sessions` for slides, labs, code samples, and a `reference-links.md` file. Open the session reference links below:
-
-- [Session 1: Foundry Overview, Foundations & AI Lifecycle](./sessions/session-1-foundry-overview-foundations-ai-lifecycle/reference-links.md)
-- [Session 2: Hello World to Models](./sessions/session-2-hello-world-to-models/reference-links.md)
-- [Session 3: Agent Service Hello World & Prompt Agents](./sessions/session-3-agent-service-prompt-agents/reference-links.md)
-- [Session 4: Hosted Agents & Agent Framework](./sessions/session-4-hosted-agents-agent-framework/reference-links.md)
-- [Session 5: Foundry Tools](./sessions/session-5-foundry-tools/reference-links.md)
-- [Session 6: Foundry IQ & Memory](./sessions/session-6-foundry-iq-memory/reference-links.md)
-- [Session 7: Observability & Evaluations](./sessions/session-7-observability-evaluations/reference-links.md)
-- [Session 8: Optimization, Publishing & Agent 365](./sessions/session-8-optimization-publishing-agent-365/reference-links.md)
+Each session has a dedicated folder in `sessions` for slides, labs, code samples, and a `reference-links.md` file. Select a session heading below to open its reference links.
 
 ## Environment approach: start in a sandbox, plan for private networking
 
@@ -49,7 +40,7 @@ Private-network deployment can proceed alongside the workshop; it is not a prere
 
 **Weekly milestone:** Understand the platform and AI lifecycle, then deploy and invoke an approved model.
 
-### Tuesday - Session 1: Foundry Overview, Foundations & AI Lifecycle
+### [Tuesday - Session 1: Foundry Overview, Foundations & AI Lifecycle](./sessions/session-1-foundry-overview-foundations-ai-lifecycle/reference-links.md)
 
 **Working agenda**
 
@@ -66,7 +57,7 @@ Private-network deployment can proceed alongside the workshop; it is not a prere
 - Confirmed access needs and ownership.
 - Agreed reference scenario and starter repository.
 
-### Thursday - Session 2: Hello World to Models
+### [Thursday - Session 2: Hello World to Models](./sessions/session-2-hello-world-to-models/reference-links.md)
 
 **Working agenda**
 
@@ -96,7 +87,7 @@ CI/CD is introduced here as a lifecycle practice. Hosted-agent deployment automa
 
 **Weekly milestone:** Create a tool-enabled prompt agent and deploy a minimal hosted agent.
 
-### Tuesday - Session 3: Agent Service Hello World & Prompt Agents
+### [Tuesday - Session 3: Agent Service Hello World & Prompt Agents](./sessions/session-3-agent-service-prompt-agents/reference-links.md)
 
 **Working agenda**
 
@@ -112,7 +103,7 @@ CI/CD is introduced here as a lifecycle practice. Hosted-agent deployment automa
 - A successful tool-backed interaction.
 - Versioned instructions and agent configuration.
 
-### Thursday - Session 4: Hosted Agents & Agent Framework
+### [Thursday - Session 4: Hosted Agents & Agent Framework](./sessions/session-4-hosted-agents-agent-framework/reference-links.md)
 
 **Working agenda**
 
@@ -140,7 +131,7 @@ Use scaffolded examples to fit the session length. Custom MCP-server development
 
 **Weekly milestone:** Extend the reference scenario with a useful service, grounded knowledge, and a scoped memory demonstration.
 
-### Tuesday - Session 5: Foundry Tools
+### [Tuesday - Session 5: Foundry Tools](./sessions/session-5-foundry-tools/reference-links.md)
 
 **Working agenda**
 
@@ -154,7 +145,7 @@ Use scaffolded examples to fit the session length. Custom MCP-server development
 - One useful service integrated into the scenario.
 - A repeatable invocation and error-handling pattern.
 
-### Thursday - Session 6: Foundry IQ & Memory
+### [Thursday - Session 6: Foundry IQ & Memory](./sessions/session-6-foundry-iq-memory/reference-links.md)
 
 **Working agenda**
 
@@ -185,7 +176,7 @@ Confirm feature, region, and network support before the labs. Use an approved de
 
 **Weekly milestone:** Measure and improve the reference agent, then publish it and review Agent 365 identity and governance.
 
-### Tuesday - Session 7: Observability & Evaluations
+### [Tuesday - Session 7: Observability & Evaluations](./sessions/session-7-observability-evaluations/reference-links.md)
 
 **Working agenda**
 
@@ -201,7 +192,7 @@ Confirm feature, region, and network support before the labs. Use an approved de
 - Evaluation baseline and agreed quality criteria.
 - Prioritized improvement backlog.
 
-### Thursday - Session 8: Optimization, Publishing & Agent 365
+### [Thursday - Session 8: Optimization, Publishing & Agent 365](./sessions/session-8-optimization-publishing-agent-365/reference-links.md)
 
 **Working agenda**
 
@@ -246,9 +237,8 @@ Use prepared examples to keep publishing, identity, and optimization focused. Co
 - An approved sandbox is sufficient to start. A private-network Foundry deployment is encouraged in parallel, with platform, networking, and security ownership.
 - Prepare deployment/OIDC and publishing permissions, approved content, and safe sample data. Use no sensitive production data. Confirm Agent 365 licensing, tenant enablement, and administrator support before Week 4.
 - Scope is one reference scenario, a small approved model set, prompt and hosted examples, one service integration, and one knowledge source.
-- Implementation and remediation continue between meetings. Session 1 starts with a 20-minute Foundry overview, followed by 40 minutes of foundations and AI lifecycle. Later sessions typically allocate 15 minutes to concepts, 35 to a guided lab/demo, and 10 to review and next steps.
+- Sessions combine concepts, guided demonstrations, and hands-on exercises, with implementation continuing between meetings.
 - Availability and preview restrictions are checked before delivery; memory currently does not support VNet integration. Record demonstrations, substitutions, and exceptions explicitly.
-- This is developer enablement, not a full enterprise landing-zone deployment or production certification. Security/networking approvals and production hardening remain separately owned.
 
 ## Selected implementation references
 
