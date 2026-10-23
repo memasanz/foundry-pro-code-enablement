@@ -26,8 +26,6 @@ A four-week working engagement for development teams.
 
 One reference scenario evolves throughout the engagement. Sandbox readiness is a prerequisite, not the primary delivery objective.
 
-Each session has a dedicated folder in `sessions` for slides, labs, code samples, and a `reference-links.md` file. Select a session heading below to open its reference links.
-
 ## Environment approach: start in a sandbox, plan for private networking
 
 The workshop can begin in an approved Foundry sandbox environment so participants can start learning and building without waiting for a full enterprise deployment.
