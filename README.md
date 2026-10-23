@@ -26,7 +26,16 @@ A four-week working engagement for development teams.
 
 One reference scenario evolves throughout the engagement. Sandbox readiness is a prerequisite, not the primary delivery objective.
 
-Session materials belong in the [sessions](sessions) folder, organized by week with a dedicated folder for each of the eight sessions. Add slides, labs, code samples, and reference material to the corresponding session folder.
+Each session has a dedicated folder at the repository root for slides, labs, code samples, and a `reference-links.md` file:
+
+- [Session 1: Foundry Overview, Foundations & AI Lifecycle](session-1-foundry-overview-foundations-ai-lifecycle)
+- [Session 2: Hello World to Models](session-2-hello-world-to-models)
+- [Session 3: Agent Service Hello World & Prompt Agents](session-3-agent-service-prompt-agents)
+- [Session 4: Hosted Agents & Agent Framework](session-4-hosted-agents-agent-framework)
+- [Session 5: Foundry Tools](session-5-foundry-tools)
+- [Session 6: Foundry IQ & Memory](session-6-foundry-iq-memory)
+- [Session 7: Observability & Evaluations](session-7-observability-evaluations)
+- [Session 8: Optimization, Publishing & Agent 365](session-8-optimization-publishing-agent-365)
 
 ## Environment approach: start in a sandbox, plan for private networking
 
